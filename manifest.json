@@ -1,0 +1,9 @@
+{
+  "name": "Bakr PS Admin Panel",
+  "short_name": "BakrPS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#18191c",
+  "theme_color": "#202225",
+  "description": "لوحة تحكم تراخيص نظام بكر للـ PlayStation والكافيه"
+}
