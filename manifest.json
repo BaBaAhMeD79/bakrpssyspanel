@@ -5,5 +5,20 @@
   "display": "standalone",
   "background_color": "#18191c",
   "theme_color": "#202225",
-  "description": "لوحة تحكم تراخيص نظام بكر للـ PlayStation والكافيه"
+  "description": "لوحة تحكم تراخيص نظام باقر للـ PlayStation والكافيه",
+  "lang": "ar",
+  "dir": "rtl",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2910/2910791.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2910/2910791.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
